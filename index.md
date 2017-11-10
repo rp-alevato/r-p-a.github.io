@@ -19,11 +19,4 @@ Also, I'm working at SpaceLab at my university as Project Manager of [FloripaSat
 ## Contact
 
 Rafael Pintar Alevato  
-Email: rpa.alevato@gmail.com  
-Phone: +55 48 99658-8108  
-Address:  
-Servidão Corintians, 97, Apto 501  
-Pantanal  
-Florianópolis/SC  
-Brazil  
-CEP: 88040-100  
+Email: rpa.alevato@gmail.com
