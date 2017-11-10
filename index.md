@@ -14,7 +14,7 @@ Also, I'm working at SpaceLab at my university as Project Manager of [FloripaSat
 
 - [Lattes](http://lattes.cnpq.br/3301716740983981)
 
-  
+< br />
 
 ## Contact
 
