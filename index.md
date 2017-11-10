@@ -1,4 +1,6 @@
-<center># Welcome to my page!</center>
+# <center>Welcome to my page!</center>
+
+Here you will see information about my work and my studies in general.
 
 ## Current Work
 
