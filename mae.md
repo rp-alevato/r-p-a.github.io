@@ -2,4 +2,4 @@
 
 # <center>Fica aqui minha homenagem</center>
 
-![eu_mae]({{ site.url }}/img/eu_mae.jpg)
+![eu_mae](https://github.com/rp-alevato/r-p-a.github.io/blob/master/img/eu_mae.jpg)
